@@ -26,7 +26,7 @@
 
 Основное содержимое сгруппировано по темам и направлениям.
 
-```text
+
 githubclassrom/
 ├─ README.md
 ├─ topics/
@@ -43,7 +43,7 @@ githubclassrom/
 ├─ .gitignore
 └─ .github/
 
-# <Topic name>
+## <Topic name>
 
 В этой папке собраны материалы, примеры и ресурсы,
 связанные с данной темой.
