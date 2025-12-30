@@ -25,21 +25,24 @@
 ## Структура репозитория
 
 ```text
-classrom/
-├─ README.md
-├─ topics/
-│  ├─ python/
-│  ├─ blender/
-│  ├─ robotics/
-│  ├─ web-design/
-│  ├─ media-and-blogging/
+Classroom/
+├─ topics/                  # учебные темы
+│  ├─ <topic-name>/
+│  │  ├─ lessons/           # учебный материал (занятия L01–L18)
+│  │  ├─ exercises/         # практические задания (HW01–HW18)
+│  │  ├─ assessments/       # проверки знаний
+│  │  │  ├─ quizzes/        # квизы и самопроверка
+│  │  │  ├─ tests/          # контрольные работы
+│  │  │  └─ exams/          # итоговые проверки
+│  │  ├─ resources/         # вспомогательные материалы и файлы
+│  │  ├─ README.md          # описание темы
+│  │  └─ resources.md       # внешние ресурсы и ссылки
 │  └─ ...
-├─ shared/
-│  ├─ guides/
-│  ├─ datasets/
-│  └─ assets/
-├─ .gitignore
-└─ .github/
+│
+├─ guides/                  # инструкции и правила работы
+├─ checklists/              # чек-листы контроля и самопроверки
+└─ README.md                # описание репозитория
+
 
 ```
 ## Содержимое папок
