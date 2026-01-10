@@ -119,7 +119,7 @@
 
 На этом этапе важна цельность формы, а не идеальная точность краёв.
 
-![Шаг 4 — Размытие (затенение)](/topics/media-and-blogging/lessons/L09/assets/step-04-blurring-shading.png)
+![Шаг 4 — Размытие (затенение)](/topics/media-and-blogging/lessons/L09/assets/step-04-Blurring(shading).png)
 
 ---
 
