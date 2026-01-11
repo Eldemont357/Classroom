@@ -91,7 +91,8 @@
 3. Поочерёдно включай и выключай каналы Red, Green и Blue.
 4. Найди канал, в котором контраст между объектом и фоном максимальный.
 
-![Шаг 1 - навигация по цветовым каналам](/topics\media-and-blogging\lessons\L09\assets\dev\step-01-channels.png)
+![Шаг 1 — навигация по цветовым каналам](/topics/media-and-blogging/lessons/L09/assets/dev/step-01-channels.png)
+
 
 **Цель шага:** выбрать канал, из которого проще всего получить силуэт.
 
@@ -112,7 +113,9 @@
    - фон стал максимально светлым.
 
 **Цель:** получить изображение, максимально приближенное к чёрно-белой маске.
-![Шаг 3 - Уровни цветов](/topics\media-and-blogging\lessons\L09\assets\dev\step-03-Levels.png)
+
+![Шаг 3 — Уровни цветов](/topics/media-and-blogging/lessons/L09/assets/dev/step-03-levels.png)
+
 
 ---
 
@@ -123,7 +126,8 @@
 
 На этом этапе важна цельность формы, а не идеальная точность краёв.
 
-![Шаг 4 — Размытие (затенение)](/topics\media-and-blogging\lessons\L09\assets\dev\step-04-Blurring-(shading).png)
+![Шаг 4 — Размытие (затенение)](/topics/media-and-blogging/lessons/L09/assets/dev/step-04-blurring-shading.png)
+
 
 ---
 
@@ -132,7 +136,8 @@
 2. Выбери **Add to Selection**.
 
 Теперь форма объекта превратилась в активное выделение.
-![Шаг 5 — Активное выделение](/topics\media-and-blogging\lessons\L09\assets\dev\step-05-Add-to-Selection.png)
+![Шаг 5 — Активное выделение](/topics/media-and-blogging/lessons/L09/assets/dev/step-05-Add-to-Selection.png)
+
 ---
 
 ### Шаг 6. Создание слоя с силуэтом
