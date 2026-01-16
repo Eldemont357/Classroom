@@ -1,5 +1,5 @@
 
-# README — Preliminary Presentation (Blender)
+#  Preliminary Presentation (Blender)
 
 ## Описание урока
 На уроке проходит **предварительная презентация проекта** в Blender.  
