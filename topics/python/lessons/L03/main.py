@@ -1,5 +1,5 @@
 import pygame
-from settings import *
+from settings import WIDTH, HEIGHT, FPS
 from player import Player
 from world import World
 

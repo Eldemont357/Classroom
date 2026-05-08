@@ -1,0 +1,19 @@
+WINDOW_WIDTH = 1100
+WINDOW_HEIGHT = 750
+
+BG_COLOR = "#0f172a"
+
+PANEL_COLOR = "#020617"
+
+TEXT_BG = "#111827"
+TEXT_COLOR = "#00ff88"
+
+ENTRY_BG = "#1e293b"
+ENTRY_FG = "#ffffff"
+
+BUTTON_BG = "#7c3aed"
+BUTTON_ACTIVE = "#6d28d9"
+
+FONT_MAIN = ("Consolas", 15)
+FONT_PANEL = ("Consolas", 13)
+FONT_TITLE = ("Consolas", 16)
